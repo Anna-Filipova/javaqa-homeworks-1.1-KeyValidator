@@ -18,7 +18,7 @@
 * Отчёт о тестировании (report.md)
 
 
-В качестве тестовых данных использовались данные openjdk11-manual, user-manual:
+В качестве тестовых данных использовались данные openjdk11-manual (https://github.com/Anna-Filipova/javaqa-homeworks-1.1-KeyValidator/blob/master/openjdk11-manual.md), user-manual (https://github.com/Anna-Filipova/javaqa-homeworks-1.1-KeyValidator/blob/master/user-manual.md):
 * установка OpenJDK11
 * запуск приложения KeyValidator
 * проверка предложенных валидных и невалидных ключей
